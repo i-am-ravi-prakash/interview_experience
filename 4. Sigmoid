@@ -1,0 +1,19 @@
+## Round 1
+
+1. Find intersection point of two LinkedList.
+https://leetcode.com/problems/intersection-of-two-linked-lists/
+https://leetcode.com/submissions/detail/793011283/
+
+2. Change a Binary Tree so that every node stores sum of all nodes in left subtree. 
+https://www.geeksforgeeks.org/change-a-binary-tree-so-that-every-node-stores-sum-of-all-nodes-in-left-subtree/
+
+## Round 2
+
+1. There are given n ropes of different lengths, we need to connect these ropes into one rope. The cost to connect two ropes is equal to the sum of their lengths. We need to connect the ropes with minimum cost.
+For example, if we are given 4 ropes of lengths 4, 3, 2, and 6. We can connect the ropes in the following ways. For example, if we connect 4 and 6 first (we get three strings of 3, 2, and 10), then connect 10 and 3 (we get two strings of 13 and 2). Finally, we connect 13 and 2. Total cost in this way is 10 + 13 + 15 = 38
+output = 29
+https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+
+2. You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+https://leetcode.com/problems/climbing-stairs/
+https://leetcode.com/submissions/detail/799327017/
