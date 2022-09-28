@@ -1,0 +1,33 @@
+## Online Assessment on Hackerrank
+
+1. To increase efficiency, the Amazon shipping team packages being shipped according to weight. They will merge lighter package with heavier package which will eliminate the need for separate shipment.
+
+packageWeight[i] represents weight of ith package. You can combine ith package and (i+1)th package if packageWeight[i] < packageWeight[i+1] then discard the ith package. After this operation the number of packages is reduced by 1 and weight of (i+1)th package increases by packageWeight[i].
+
+Find the maximum possible weight of a package that can be achieved after any sequence of merge operations.
+
+I solved this using stack. Traverse the given package array from end and push the element in the stack by checking condition. Once the array is traversed, return the maximum element from the stack.
+
+2. Forgot the question
+
+## Interview Round 1 (coding round):
+
+1. Formal introductions
+2. Past project related questions
+3. Find the number of islands (I told the approach but was not able to write the code on my own. After taking hints from interviewer I completed the code)
+He wanted to ask one more coding question but the time was over.
+
+## Interview Round 2 (System Design Round):
+
+1. Formal introductions
+2. Questions of past experience and projects
+3. Some behavioral questions
+4. Design bowling game (LLD)
+5. Again some questions on past experience
+
+## Interview Round 3 (Hiring Manager Round):
+
+1. Formal introductions
+2. Behavioral questions
+3. Past experience and projects related questions
+4. Design Tiny URL (HLD)
