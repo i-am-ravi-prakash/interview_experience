@@ -1,0 +1,24 @@
+## Round 1
+
+1. 10 Java MCQs.
+
+2. Maximum Length of a Concatenated String with Unique Characters.
+https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+
+3. You are given a string S containing name of employees of a company comma and space seperated and one string C which is the company name. Generate unique email ids for all employees which follow below rules:
+
+- Only first and last name to be considered. Ignore middle name if present for any employees.
+- If there are two or more than two employees with same name then add counter just after the name in email address. See the below example:
+  Let say there are three persons with same name Ravi Prakash. So their email ids will be like below:
+  ravi.prakash@company.com, ravi.prakash2@company.com, ravi.prakash3@company.com
+- email id will be in all small letters
+
+
+Sample test case:
+S = "Rohit Sharma, Virat Kohli, Surya Kumar Yadav, Rishabh Pant, Hardik Pandya"
+C = BCCI
+
+O/P: rohit.sharma@bcci.com, virat.kohli@bcci.com, surya.yadav@bcci.com, rishabh.pant@bcci.com, hardik.pandya@bcci.com
+
+4. Some questions related to Spring, Hibernate and core Java.
+5. Why is the disadvantages of Indexing?
