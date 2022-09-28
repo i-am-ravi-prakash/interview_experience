@@ -1,6 +1,6 @@
 The company recruiting team contacted me for the Backend Developer (Java). After my CV shortlisting I got a call for the interviews.
 
-**Round 1: Culture Fit Round**
+## Round 1: Culture Fit Round
 
 1. Tell me about yourself.
 2. Describe the current project and tech stack involved.
@@ -9,12 +9,12 @@ The company recruiting team contacted me for the Backend Developer (Java). After
 5. Why do you want to join Talentica?
 
 
-**Round 2: Technical Round**
+## Round 2: Technical Round
 
 1. Explain abstraction. Abstraction vs data hiding.
 2. Interface explanation.
 3. Basic questions on Spring framework.
 4. Explain SOLID principles.
 5. Many to Many relation schema designs. There are two tables: the student table and the course table. One student can opt for any number of courses and one course can be opted for by any number of students. Explain SQL and NoSQL design for this table relation.
-6. Two sum problem LeetCode. https://leetcode.com/problems/two-sum/
+6. Two sum problem LeetCode. <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a>
 7. Difference between HashSet and TreeSet.
