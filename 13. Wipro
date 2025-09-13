@@ -1,0 +1,9 @@
+ 1.⁠ ⁠Write a sample Spring Boot code for Student management system with the below requirements:
+Student Entity having fields - Name, class, roll, address
+Service class
+Repository layer
+Controller layer with operations - get student, update student, delete student, create student
+ 2.⁠ ⁠JPA related simple question.
+ 3.⁠ ⁠Which annotation is used to establish async communication from Spring Boot application?
+ 4.⁠ ⁠What is circuit breaker architecture in microservices?
+ 5.⁠ ⁠Have you written DB procedure or functions?
