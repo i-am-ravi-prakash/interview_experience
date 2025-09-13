@@ -1,0 +1,11 @@
+ 1.⁠ ⁠What kind of mechanism we use in Kafka? Pull or Push mechanism?
+ 2.⁠ ⁠How to handle transaction management in Spring Boot?
+ 3.⁠ ⁠Different kind of scope of bean in Spring Boot?
+ 4.⁠ ⁠Intermediate vs termainal operation in Stream API.
+ 5.⁠ ⁠List vs Set. In which we maintain order and what kind of order?
+ 6.⁠ ⁠PUT vs PATCH request in Spring Boot.
+ 7.⁠ ⁠Tools/annotations for estabilishing async/sync communication b/w two microservices.
+ 8.⁠ ⁠How to create a threadpool?
+ 9.⁠ ⁠Which design pattern we use in Spring MVC?
+10.⁠ ⁠Is PUT operation is Idempotent Operation?
+11.⁠ ⁠How to move from default tomcat server to Jetty in Spring Boot application?
