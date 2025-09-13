@@ -1,0 +1,11 @@
+ 1.⁠ ⁠Short introduction.
+ 2.⁠ ⁠Last project you worked on.
+ 3.⁠ ⁠Java-8 features used in the last project.
+ 4.⁠ ⁠Generics in Java.
+ 5.⁠ ⁠Parallel Stream in Java. How is it different from normal Stream? When can we use parallel Stream.
+ 6.⁠ ⁠Map vs FlatMap.
+ 7.⁠ ⁠What is the microservice architecture of your project?
+ 8.⁠ ⁠What is CircuitBreaker architecture in microservice?
+ 9.⁠ ⁠String[] str = {"hello world    hello","world of java","hello    java","hello world of java"}; Find the number of "hello" in the given array of String using Stream API.
+10.⁠ ⁠What is functional interface?
+11.⁠ ⁠Write one sample code to show how to implement functional interface.
