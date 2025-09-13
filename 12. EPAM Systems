@@ -1,0 +1,5 @@
+ 1.⁠ ⁠String[] str = {"java", "abc", "abca", "xyz", "abcd"};
+Write a Java code using Stream API to find the longest string having all unique characters.
+ 
+ 2.⁠ ⁠String[] str = {"java", "avaj", "xyz", "epam", "peam", "mepa"};
+Write a Java code to find all the words having same characters.
